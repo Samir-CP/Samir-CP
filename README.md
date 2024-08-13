@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samir-chirinos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir chirinos" height="30" width="40" /></a>
-<a href="https://fb.com/SamirChirinosPatiño" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samir chirinos patiño" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100009062148720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samir chirinos patiño" height="30" width="40" /></a>
 <a href="https://instagram.com/samochp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samochp" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/samochp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="samochp" height="30" width="40" /></a>
 </p>
