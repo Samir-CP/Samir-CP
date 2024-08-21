@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **react, vue**
 
-- 👨‍💻 All of my projects are available at [www.com](www.com)
+- 👨‍💻 All of my projects are available at [www.com]https://samir-cp.github.io/SamirPortfolio/
 
 - 📫 How to reach me **samchp4903@gmail.com**
 
