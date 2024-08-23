@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samchp4903@gmail.com**
 
-- 📄 Know about my experiences [cv.com](cv.com)
+- 📄 Know about my experiences [https://heyzine.com/flip-book/64bd4034d0.html]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
