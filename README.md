@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samir-cp" alt="samir-cp" /></a> </p>
 
-- 🌱 I’m currently learning **react, vue**
+- 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [https://samir-cp.github.io/SamirPortfolio/]
 
